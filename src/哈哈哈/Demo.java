@@ -21,6 +21,6 @@ public class Demo {
         }
 // 必须等到 10 人全部回来
         latch.await();
-        System.out.println("比赛结束");
+        System.out.println("结束");
     }
 }
