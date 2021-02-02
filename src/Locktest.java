@@ -44,6 +44,6 @@ public class Locktest {
         System.out.println(sum);
     }
     public static void main(String[] args) {
-        test2();
+        test1();
     }
 }
